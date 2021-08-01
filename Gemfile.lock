@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    balabola (0.1.0)
+    balaboba (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -26,7 +26,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  balabola!
+  balaboba!
   rake (~> 13.0)
   rspec (~> 3.2)
 

@@ -1,16 +1,16 @@
 # frozen_string_literal: true
 
-require_relative "lib/balabola/version"
+require_relative "lib/balaboba/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "balabola"
-  spec.version       = Balabola::VERSION
+  spec.name          = "balaboba"
+  spec.version       = Balaboba::VERSION
   spec.authors       = ["Andrey Skuratovsky"]
   spec.email         = ["skuratowsky@gmail.com"]
 
-  spec.summary       = "Gem for Yandex Balabola API."
-  spec.description   = "Just a simple gem for Yandex Balabola API. Install, use, enjoy. P.S. Works with ruby 3.0+ only."
-  spec.homepage      = "https://github.com/askuratovsky/balabola"
+  spec.summary       = "Gem for Yandex Balaboba API."
+  spec.description   = "Just a simple gem for Yandex Balaboba API. Install, use, enjoy. P.S. Works with ruby 3.0+ only."
+  spec.homepage      = "https://github.com/askuratovsky/balaboba"
   spec.license       = "MIT"
   spec.required_ruby_version = ">= 2.4.0"
 

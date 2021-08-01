@@ -1,15 +1,15 @@
-# Balabola
+# Balaboba
 
-Welcome! Use this gem for simple access to Yandex Balabola API. Enjoy!
+Welcome! Use this gem for simple access to Yandex Balaboba API. Enjoy!
 
-Ruby code in the file `lib/balabola`. To experiment with that code, run `bin/console` for an interactive prompt.
+Ruby code in the file `lib/balaboba`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'balabola'
+gem 'balaboba'
 ```
 
 And then execute:
@@ -18,13 +18,13 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install balabola
+    $ gem install balaboba
 
 ## Usage
 
 ```ruby
   text = "Some phrase."
-  generated_text = Balabola.request(text, theme: :default)
+  generated_text = Balaboba.request(text, theme: :default)
 ```
 
 ## Development
@@ -35,7 +35,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/askuratovsky/balabola. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/askuratovsky/balabola/blob/master/CODE_OF_CONDUCT.md).
+Bug reports and pull requests are welcome on GitHub at https://github.com/askuratovsky/balaboba. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/askuratovsky/balaboba/blob/master/CODE_OF_CONDUCT.md).
 
 ## License
 
@@ -43,4 +43,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the Balabola project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/askuratovsky/balabola/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the Balaboba project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/askuratovsky/balaboba/blob/master/CODE_OF_CONDUCT.md).

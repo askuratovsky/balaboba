@@ -1,8 +1,12 @@
 # frozen_string_literal: true
 
-require_relative "balabola/version"
+require_relative "balaboba/version"
 
-module Balabola
+module Balaboba
   class Error < StandardError; end
-  # Your code goes here...
+
+  THEMES = []
+
+  def self.request(phrase, theme: :default)
+  end
 end
